@@ -1,0 +1,65 @@
+/* body {
+    background-color: #3D4B14;
+}
+img {
+    width: 4%;
+}
+.rec {
+    width: 20%;
+} */
+
+.machine-card {
+  border-radius: 20px;
+  width: 241px;
+  height: 274px;
+  background-color: antiquewhite;
+}
+
+.popper {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 9999;
+  width: 12.85%;
+}
+
+.options-button-type {
+  width: 100%;
+}
+
+.options-button {
+  color:#009039;
+  margin-left: 80%;
+  margin-top: 5%;
+  cursor: pointer;
+}
+
+.machine-result {
+  width: 100%;
+}
+
+.word-button {
+    background: none;
+    border: none;
+    padding: 0;
+  }
+  
+
+  .btn-container {
+    position: relative;
+  }
+  
+  .btn-text {
+    margin-top: 20%;
+    font-family: 'Raleway';
+    font-style: normal; 
+    font-weight: 800; 
+    font-size: 30px; 
+    line-height: 53px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #009039;
+}

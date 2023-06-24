@@ -1,0 +1,43 @@
+body {
+    background-color: #E3DBCA;
+}
+
+div h1, h3{
+    color: #009039;
+}
+
+div button {
+    background-color: #009039;
+    color: white;
+    width: 336px;
+}
+
+h1 {
+    margin-right: 400px;
+}
+
+h3 {
+    margin-right: 420px;
+    margin-top: -30px;
+}
+
+button {
+    margin-right: 720px;
+    margin-top: 10px;
+}
+
+.first {
+    margin-top: -300px;
+    margin-left: 300px;
+    width: 500px;
+    transform: scale(1.5); 
+
+
+
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    margin-top: 180px;
+}

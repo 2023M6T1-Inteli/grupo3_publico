@@ -6,30 +6,30 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 
 # Projeto: *Solução de otimização de corte de bobinas de papel*
 
-# Grupo: *Nome_do_seu_Grupo*
+# Grupo: 
+<img src="./img/grupo-logo.png" width="300px"/>
+
 
 # Alunos
 
-* *Aluno 1*
-* *Aluno 2*
-* *Aluno 3*
-* *Aluno 4*
-* *Aluno 5*
-* *Aluno 6*
-* *Aluno 7*
-* *Aluno 8*
+* Beny Frid
+* Iago Medeiros Tavares
+* Melyssa de Souza Gonzales Rojas
+* Pedro Guilherme Ferreira Silva
+* Rafael Alves Cabral
+* Raphael Lisboa Antunes
+* Vitor Augusto Menten de Barros
 
 # Descrição
 
-*Descrição_resumida_do_projeto*
+O projeto visa solucionar o problema de otimização de corte de bobinas de papel. A empresa recebe diariamente várias demandas de diferentes clientes e precisa realizar o corte nas máquinas, o que requer o reset do setup para cada especificação, resultando em perda de tempo e redução na produção de bobinas menores.
 
-# Guia de instalação
+O objetivo principal é alcançar a melhor estratégia possível para o corte das bobinas, levando em consideração as restrições e minimizando as perdas. O algoritmo desenvolvido busca combinar os pedidos dos clientes de forma a maximizar a utilização das bobinas, aumentando a produtividade da empresa.
 
-*Escreva aqui as instruções para a instalação e execução da aplicação.*
+Espera-se que essa solução gere novos algoritmos e soluções que possam ser incorporados em estudos futuros, proporcionando melhorias contínuas no processo de corte de bobinas de papel e otimizando a produção.
 
-# Guia para preparar o ambiente de desenvolvimento
-
-*Escreva aqui as instruções para um desenvolvedor conseguir preparar o ambiente de desenvolvimento no seu computador.*
+# Guia de instalação e preparação do ambinte de desenvolvimento
+As instruções para a instalação e execução da aplicação, e preparação do ambiente de desenvolvimento podem ser encontradas no [Manual do Desenvolvedor](Manual_do_desenvolvedor.pdf).
 
 # Licença
 
